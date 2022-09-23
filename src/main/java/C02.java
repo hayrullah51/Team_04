@@ -1,6 +1,7 @@
 public class C02 {
 
     public static void main(String[] args) {
+<<<<<<< HEAD
 
 
 
@@ -10,4 +11,8 @@ public class C02 {
     }
 
 
+=======
+        //yorum...
+    }
+>>>>>>> 171733703ec7e30e3ba478d7e85fe4951a04358e
 }
